@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+table {
+  border-color: #222222;
+  border-width: 0 0 1px 1px;
+  border-style: solid;
+}
+
+th {
+  white-space: nowrap;
+}
+
+th, td {
+  border-color: #222222;
+  border-width: 1px 1px 0 0;
+  border-style: solid;
+  font-size: 11px;
+  margin: 0;
+  padding: 4px;
+}
+
+#grades_table {
+  margin-top: 4px;
+}
+
+.grade_number {
+  font-weight: bold;
+  text-align: center;
+}
+
+.grade_field, .credits_field {
+  text-align: center;
+}
