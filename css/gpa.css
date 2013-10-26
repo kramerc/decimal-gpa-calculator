@@ -6,6 +6,7 @@ body {
 table {
   border-color: #222222;
   border-width: 0 0 1px 1px;
+  border-spacing: 0;
   border-style: solid;
 }
 
